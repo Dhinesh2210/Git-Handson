@@ -1,3 +1,0 @@
-Hello Github
-Welcome to git
-update to remote repo
